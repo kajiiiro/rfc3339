@@ -126,13 +126,13 @@ Rfc3339::Rfc3339() {
 	timeUtcOffset = 'Z';
 	timeNumOffsetPlus = '+';
 	timeNumOffsetMinus = '-';
-	dateYearIndex = 5;
-	dateMonthIndex = 8;
-	dateTimeIndex = 11;
-	timeHourIndex = 14;
-	timeMinuteIndex = 17;
-	timeSecondIndex = 20;
-	timeNumOffsetIndex = 23;
+	dateYearIndex = 4;
+	dateMonthIndex = 7;
+	dateTimeIndex = 10;
+	timeHourIndex = 13;
+	timeMinuteIndex = 16;
+	timeSecondIndex = 19;
+	timeNumOffsetIndex = 22;
 }
 Rfc3339::~Rfc3339() {
 }
