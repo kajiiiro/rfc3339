@@ -20,3 +20,5 @@ But this program does not support millisecond format.
 If you want to use, please exec 'make'.
 
 This program does not have the other dependancy(but c++ normal dependancy).
+
+In future, I'll use Regex. So, this program will support all formats.
